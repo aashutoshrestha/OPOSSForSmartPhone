@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homePage" android:title="Search" android:icon="@drawable/ic_search"/>
+    <item android:id="@+id/notification" android:title="Notifications(0)" android:icon="@drawable/ic_notification"/>
+    <item android:id="@+id/profilePage" android:title="Profile" android:icon="@drawable/ic_profile_default_thumb"/>
+    <item android:id="@+id/historyPage" android:title="History" android:icon="@drawable/ic_history"/>
+    <item android:id="@+id/contactPage" android:title="Contact" android:icon="@drawable/ic_contactus"/>
+    <item android:id="@+id/aboutPage" android:title="About" android:icon="@drawable/ic_aboutus"/>
+</menu>
